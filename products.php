@@ -7,7 +7,7 @@ include 'header.php';
  #grad1 {
     height: 200px;
     background-color: #cccccc;
-    background-image: url(NnzxG4S.jpg);
+    background-image: url(images/NnzxG4S.jpg);
 }
 </style>
 </head><body>

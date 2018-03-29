@@ -82,7 +82,7 @@ img {vertical-align: middle;}
  #grad1 {
     height: 200px;
     background-color: #cccccc;
-    background-image: url(NnzxG4S.jpg),url(3848765-wallpaper-images-download.jpg);
+    background-image: url(images/NnzxG4S.jpg);
    
 }
 </style>
@@ -111,19 +111,19 @@ Apart from our regular production we are also interested in the development of n
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="3848765-wallpaper-images-download.jpg" style="width:100%">
+  <img src="images/3848765-wallpaper-images-download.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="forest_lake_reflection_island_mist_97668_1920x1080.jpg" style="width:100%">
+  <img src="images/forest_lake_reflection_island_mist_97668_1920x1080.jpg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="NnzxG4S.jpg" style="width:100%">
+  <img src="images/NnzxG4S.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
